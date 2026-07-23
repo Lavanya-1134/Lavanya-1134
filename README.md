@@ -171,10 +171,8 @@ GitHub Growth
 
 </p>
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Lavanya-1134/Lavanya-1134/output/github-contribution-grid-snake.svg"/>
-
+<img src="https://raw.githubusercontent.com/Lavanya-1134/Lavanya-1134/output/github-contribution-grid-snake.svg">
 </p>
