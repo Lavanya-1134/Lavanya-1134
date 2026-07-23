@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Banner.mp4" width="100%" />
+<img src="Banner.mp4">
 
 # Hi 👋 I'm Lavanya Poojari
 
@@ -72,8 +72,6 @@ Building intelligent solutions with **AI • Machine Learning • Deep Learning 
 
 | Project | Description |
 |---------|-------------|
-| 🤖 ResQHub | AI-powered emergency response system |
-| 👗 AI Fashion Stylist | Outfit recommendation using AI |
 | 🌐 CSSB Website | Modern React + Tailwind website |
 | 📚 100DaysOfCoding | Daily coding journey |
 
@@ -121,7 +119,7 @@ Building intelligent solutions with **AI • Machine Learning • Deep Learning 
 
 <p align="left">
 
-<a href="https:https://www.linkedin.com/in/lavanya-poojari-8a82b22b8/">
+<a href="https://www.linkedin.com/in/lavanya-poojari-8a82b22b8/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
