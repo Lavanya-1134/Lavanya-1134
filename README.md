@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="Banner.mp4">
+<p align="center">
+<img src="banner.gif" width="100%">
+</p>
 
 # Hi 👋 I'm Lavanya Poojari
 
@@ -79,33 +81,26 @@ Building intelligent solutions with **AI • Machine Learning • Deep Learning 
 
 # 📈 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lavanya-1134&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanya-1134&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lavanya-1134&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanya-1134&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Lavanya-1134&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lavanya-1134&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lavanya-1134&theme=tokyonight&margin-w=15&no-frame=true&row=1"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Lavanya-1134&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
