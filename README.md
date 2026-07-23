@@ -1,126 +1,89 @@
 <p align="center">
-
-<img src="Banner.gif" width="100%">
-
-</p>
-
-<h1 align="center">
-Hi 👋 I'm Lavanya Poojari
-</h1>
-
-<h3 align="center">
-Artificial Intelligence & Machine Learning Engineering Student
-</h3>
-
-<p align="center">
-
-Building Intelligent Solutions with
-
-<b>Python • AI • Machine Learning • Deep Learning • Full-Stack Development</b>
-
+  <img src="./Banner.gif" width="100%">
 </p>
 
 ---
 
-# 💡 About Me
+## 👩‍💻 About Me
 
-🎓 AIML Engineering Student
+🎓 B.E. in Artificial Intelligence & Machine Learning (2023–2027)
 
-💻 Passionate about Artificial Intelligence & Machine Learning
+📍 Bhiwandi, Maharashtra, India
 
-🚀 Currently building AI-powered real-world applications
+💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning and Full-Stack Development.
 
-📚 Learning
+🚀 Currently building real-world AI solutions and contributing to Open Source.
+
+🌱 Currently learning
 
 - Machine Learning
 - Deep Learning
-- NLP
 - Computer Vision
-- Full Stack Development
-- Firebase
+- NLP
 - React
+- Firebase
 - Flask
-
-🎯 Goal
-
-Become an AI Engineer and build intelligent systems that solve real-world problems.
 
 ---
 
-# ⚡ Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,react,html,css,tailwind,javascript,typescript,nodejs,firebase,flask,git,github,vscode,mysql"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c" />
+</p>
 
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,firebase,mysql" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🐾 ResQHub
-
-AI-powered platform for helping injured stray animals.
-
-- AI Detection
-- Firebase
-- Flask
-- Deep Learning
-- Donation Portal
-
----
-
-## 🌸 Cultural Seva Santha Website
-
-Modern responsive website using
-
-React
-
-Tailwind CSS
-
-TypeScript
-
-Animations
-
-Responsive UI
-
----
-
-## 📚 100 Days of Coding
-
-Daily coding journey documenting
-
-Python
-
-DSA
-
-Machine Learning
-
-Projects
-
-GitHub Growth
+| Project | Description |
+|---------|-------------|
+| 🌐 CSSB Website | Modern React + Tailwind website |
+| 📚 100DaysOfCoding | Daily coding journey |
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lavanya-1134&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanya-1134&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lavanya-1134&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanya-1134&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 # 🔥 GitHub Streak
 
+# 🔥 GitHub Streak
+
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Lavanya-1134&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -128,51 +91,36 @@ GitHub Growth
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Lavanya-1134&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
 </p>
 
 ---
 
 # 📊 Contribution Graph
 
-<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lavanya-1134&theme=tokyo-night"/>
 
-</p>
-
 ---
 
-# 🌐 Connect With Me
+# 📫 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<a href="https://github.com/Lavanya-1134">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://www.linkedin.com/in/lavanya-poojari-8a82b22b8/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<a href="mailto:poojarilavanya19@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+### 💙 "Learning every day. Building for tomorrow."
 
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Lavanya-1134/Lavanya-1134/output/github-contribution-grid-snake.svg">
-</p>
+</div>
