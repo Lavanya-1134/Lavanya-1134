@@ -64,8 +64,9 @@
 
 | Project | Description |
 |---------|-------------|
-| 🌐 CSSB Website | Modern React + Tailwind website |
-| 📚 100DaysOfCoding | Daily coding journey |
+| 🐾 **ResQHub AI** | AI-powered platform for helping injured stray animals by connecting them with nearby healthcare resources and support. |
+| 🍱 **ServeSmart** | Intelligent food donation and redistribution platform with AI-driven trust assessment and geospatial analytics. |
+| 💻 **100DaysOfCoding** | Structured daily coding journey focused on building programming fundamentals and problem-solving skills. |
 
 ---
 
@@ -81,7 +82,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Lavanya-1134&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.vercel.app?user=Lavanya-1134&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -96,8 +97,9 @@
 
 # 📊 Contribution Graph
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lavanya-1134&theme=tokyo-night"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lavanya-1134&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
