@@ -107,6 +107,10 @@
 
 <p align="left">
 
+<a href="https://lavanya-portfolio-taupe.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+
 <a href="https://www.linkedin.com/in/lavanya-poojari-8a82b22b8/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
